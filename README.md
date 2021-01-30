@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm Shaun, I'm currently a candidate for Master of Business Analytics at MIT, class of 2021. I'm primarily interested in working in the tech industry with the aim to increase social good. Particular fields I find interesting are smart cities and education, but my interests are definitely not limited to this. 
+I'm Shaun, I'm currently a candidate for Master of Business Analytics at MIT, class of 2021. I'm primarily interested in working in the tech industry with the aim to increase social good. 
 
+- Particular fields I find interesting are smart cities and education, but my interests are definitely not limited to this. 
 
+Please feel free to reach out to me at https://www.linkedin.com/in/shaungan/
 <!--
 **shaunfg/shaunfg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
