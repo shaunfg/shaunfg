@@ -2,7 +2,7 @@
 
 I'm Shaun, I'm currently a candidate for Master of Business Analytics at MIT, class of 2021. I'm primarily interested in working in the tech industry with the aim to increase social good. I studied Physics in my undergrad at Imperial College London, allowing me to hone my skills in data analysis and theoretical math.
 
-- Particular fields I find interesting are smart cities and education, but my interests are definitely not limited to this! 
+- Particular fields I find interesting are smart cities, media and education, but my interests are definitely not limited to this! 
 
 Please feel free to reach out to me at https://www.linkedin.com/in/shaungan/
 <!--
